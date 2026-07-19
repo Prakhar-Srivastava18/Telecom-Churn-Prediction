@@ -1,4 +1,4 @@
-STREAMING_CHUNK: Listing Python dependencies...
+STREAMING_CHUNK: Listing Python dependencies
 
 pandas2.2.2
 numpy1.26.4
